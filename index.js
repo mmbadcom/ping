@@ -3,7 +3,7 @@ document.writeln("		<h1>BZHAN</h1>");
 document.writeln("		<div class=\"content\">");
 document.writeln("			<div class=\"content-top\">				");
 document.writeln("					<h2>不定期更换域名，请收藏发布页！</h2>");
-document.writeln("					<h2><span style=\"color:#FFE500;font-size:20px;\">勿用QQ/UC/360/夸克等带屏蔽浏览器</span></h2>");
+document.writeln("					<h2><span style=\"color:#FFE500;font-size:20px;\">勿用QQ/UC/360/夸克等浏览器</span></h2>");
 document.writeln("					<ul>");
 document.writeln("						<li>");
 document.writeln("						    <br><span>如果长时间未响应,尝试刷新浏览器</span>");
